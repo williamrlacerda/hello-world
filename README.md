@@ -1,2 +1,4 @@
 # hello-world
-aprendendo a usar o github
+
+hello Humans,
+Im learning how it works.
